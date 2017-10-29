@@ -10,3 +10,4 @@ printf("speed=%f",c);
 }
 
 assignemnt was done by shubham mishra
+submitted to awdhesh sir
